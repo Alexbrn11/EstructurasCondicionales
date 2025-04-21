@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppEstructurasCondicionales", "ConsoleAppEstructurasCondicionales\ConsoleAppEstructurasCondicionales.csproj", "{A212E6F0-1199-4FE7-8522-149F80FF93AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A212E6F0-1199-4FE7-8522-149F80FF93AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A212E6F0-1199-4FE7-8522-149F80FF93AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A212E6F0-1199-4FE7-8522-149F80FF93AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A212E6F0-1199-4FE7-8522-149F80FF93AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE096713-D795-4D60-B53B-CEFECDAF7EAF}
+	EndGlobalSection
+EndGlobal
